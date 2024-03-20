@@ -188,7 +188,7 @@ function Home() {
             <div
               id="a188dd9d31104a31918d36cab31af5e1_video_background"
               className="wb_video_background"
-              data-video="gallery/Pexels Videos 2112426-ts1672924136.mp4"
+              data-video="./videoo.mp4"
               data-start=""
               data-end=""
             >
